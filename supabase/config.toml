@@ -1,0 +1,5 @@
+[functions.proxy-image-download]
+verify_jwt = true
+
+[functions.scan-dropbox-folder]
+verify_jwt = true
